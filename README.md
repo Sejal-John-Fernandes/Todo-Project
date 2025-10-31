@@ -23,6 +23,6 @@ This project helps users efficiently manage their daily tasks by allowing them t
 - **JavaScript (ES6)** — For interactivity and dynamic task management.  
 
 
-
+![image_alt](https://github.com/Sejal-John-Fernandes/Todo-Project/blob/main/Screenshot.png?raw=true)
 
 
