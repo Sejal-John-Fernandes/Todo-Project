@@ -22,8 +22,7 @@ This project helps users efficiently manage their daily tasks by allowing them t
 - **CSS3** — For styling the layout and improving visual design.  
 - **JavaScript (ES6)** — For interactivity and dynamic task management.  
 
----
 
-## 📂 Project Structure
+
 
 
